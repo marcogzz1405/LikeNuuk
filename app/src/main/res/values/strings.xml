@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Like Nuuk</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="text2">Ultricies integer quis auctor elit sed vulputate mi sit amet. Placerat duis ultricies lacus sed. Senectus et netus et malesuada. Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Odio facilisis mauris sit amet massa vitae tortor condimentum. Consequat mauris nunc congue nisi vitae suscipit tellus mauris. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Lacus sed viverra tellus in hac habitasse platea. Dui ut ornare lectus sit amet est placerat in. Nulla facilisi morbi tempus iaculis. Nibh sed pulvinar proin gravida hendrerit lectus a. Nibh tellus molestie nunc non blandit massa enim nec dui. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Consequat ac felis donec et.</string>
+    <string name="text3">Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Nam libero justo laoreet sit amet cursus sit amet. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Magnis dis parturient montes nascetur ridiculus mus mauris vitae. Sollicitudin ac orci phasellus egestas tellus. Massa tempor nec feugiat nisl pretium fusce. Turpis in eu mi bibendum neque egestas congue quisque. Volutpat diam ut venenatis tellus in metus vulputate eu. Nisi est sit amet facilisis magna etiam. Euismod nisi porta lorem mollis aliquam ut. Fames ac turpis egestas integer eget.</string>
 </resources>
